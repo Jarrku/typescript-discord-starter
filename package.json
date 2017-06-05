@@ -1,0 +1,17 @@
+{
+  "name": "typescript-discord-starter",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bufferutil": "^3.0.1",
+    "common-utils": "^0.0.2",
+    "discord.js": "^11.1.0",
+    "discord.js-commando": "^0.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.27",
+    "tslint": "^5.4.2",
+    "typescript": "^2.3.4"
+  }
+}
